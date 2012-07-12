@@ -1,0 +1,4 @@
+miles, year, make
+42451, 2003, Acura
+24031, 2003, Chevy
+14233, 2006, Honda
