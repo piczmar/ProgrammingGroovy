@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fri Jul 06 01:58:31 CEST 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0138-5994-a9ef-00000c436bd8 
+on database directory E:\dev\groovy\ProgrammingGroovy\src\ch10\derbyDB  with class loader org.codehaus.groovy.tools.RootLoader@664741d6 
+Loaded from file:/C:/Users/marcin/.groovy/grapes/org.apache.derby/derby/jars/derby-10.9.1.0.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_32-b05
+user.dir=E:\dev\groovy\ProgrammingGroovy\src\ch10
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jul 06 01:58:32 CEST 2012: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Jul 06 01:58:32 CEST 2012:
+Shutting down instance a816c00e-0138-5994-a9ef-00000c436bd8 on database directory E:\dev\groovy\ProgrammingGroovy\src\ch10\derbyDB with class loader org.codehaus.groovy.tools.RootLoader@664741d6 
+----------------------------------------------------------------
